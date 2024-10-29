@@ -1,0 +1,118 @@
+html {
+  background-color: white;
+}
+p {
+  margin: 1px;
+}
+body {
+  width: 100%;
+  margin: 0px;
+  background: linear-gradient(270deg, #000, #eee);
+  font-size: 12px;
+  padding: 5px;
+  font-family: "PT Serif", serif;
+}
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 25px;
+}
+h4 {
+  font-size: 16px;
+}
+div {
+  margin-left: 20px;
+  margin-right: 15px;
+}
+.kolumny {
+  display: flex;
+}
+.flex1 {
+  flex: 1;
+}
+.flex2 {
+  flex: 2;
+}
+.flex3 {
+  flex: 3;
+}
+.flex4 {
+  flex: 4;
+}
+.flex5 {
+  flex: 5;
+}
+.flex6 {
+  flex: 6;
+}
+
+hr.style1 {
+  height: 10px;
+  border: 0;
+  box-shadow: 0 10px 10px -10px #8c8b8b inset;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+hr.style2 {
+  border-top: 3px double #8c8b8b;
+}
+#pasekLewo {
+  background-color: #333;
+  color: rgb(204, 204, 204);
+  color: #aaa;
+  text-align: center;
+}
+#klauzula {
+  text-align: center;
+  color: #777;
+  font-size: 10px;
+}
+#wartoscdanych {
+  font-style: italic;
+}
+#zdjecie {
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+}
+#dodatkowy {
+  background-color: rgb(57, 80, 69);
+  margin: 0px;
+  color: #ddd;
+}
+.akapit {
+  font-weight: 700;
+  font-size: 22px;
+}
+.daty {
+  font-style: italic;
+}
+.firma {
+  font-weight: 700;
+  font-size: 20px;
+}
+.nazwastanowiska {
+  font-weight: 700;
+  font-size: 17px;
+}
+.oddzial {
+  font-size: 17px;
+  font-style: italic;
+}
+.zakres1 {
+  font-style: italic;
+}
+.kropka {
+  width: 15px;
+}
+.right {
+  text-align: right;
+}
+.left {
+  text-align: left;
+}
+.pasek {
+  width: 80%;
+  margin: 0px;
+}
